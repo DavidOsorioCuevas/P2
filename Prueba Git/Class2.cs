@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Prueba_Git
 {
-    public class Class1
+    class Class2
     {
-        //meh aqui hice un cambio eso dicen xd en fin asi no ma
-        //sigiente comentario mal escrito
+        //por q puta no me pesca los cambios
+
     }
 }
